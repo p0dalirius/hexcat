@@ -1,6 +1,6 @@
 ![](./.github/banner.png)
 
-Prints only printable characters of a file
+A tool to show only printable characters of a file
 
 ## Features
 
