@@ -20,16 +20,6 @@ Source files are located in `src/` and binary files will go in `bin/`. To compil
 make
 ```
 
-## Fixes
-
- 1. Binary file (standard input) matches
-
-    ```
-    ./hexcat tests/test.log | grep "li"
-    Binary file (standard input) matches
-
-    ```
-
 ## Contributing
 
 Pull requests are welcome. Feel free to open an issue if you want to add other features.
